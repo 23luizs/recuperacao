@@ -1,0 +1,21 @@
+*{
+    background-color: #e4e2d8;
+}
+
+.principal{
+    font-size: 30px;
+    font-family: Arial;
+    color: #003cff;
+}
+
+.secundario{
+    font-size: 20px;
+    font-family: Arial;
+    color: #ff0000;
+}
+
+.paragrafo{
+    font-size: 15px;
+    font-family: 'Times New Roman';
+    color: #000;
+}
